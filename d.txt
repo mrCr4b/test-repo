@@ -1,5 +1,0 @@
-chud
-FebtoMid
-DATABASE_URI=mysql://febtomid:thitkhotau@192.168.1.1:3306/PBL6_Git
-DB_PASSWORD=e438c3429625902c35f49607242cda8c 
-hello
