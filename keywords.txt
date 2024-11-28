@@ -1,1 +1,2 @@
-e438c3429625902c35f49607242cda8c
+connectionStrings
+smtpPassword

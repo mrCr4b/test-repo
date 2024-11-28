@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # Cấu hình GitHub API và email
-GITHUB_TOKEN = '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'  
+GITHUB_TOKEN = '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'  
 HEADERS = {
     'Authorization': f'token {GITHUB_TOKEN}'
 }
