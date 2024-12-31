@@ -11,7 +11,7 @@ HEADERS = {
 }
 SEARCH_API_URL = 'https://api.github.com/search/code'
 KEYWORDS_FILE = 'keywords.txt'  # Tệp chứa các từ khóa
-OUTPUT_CSV = 'search_results.csv'  # Tệp đầu ra
+OUTPUT_CSV = 'search_results.csv'  # Tệp đầu raaa
 
 # Cấu hình email
 SMTP_SERVER = 'smtp.gmail.com'
